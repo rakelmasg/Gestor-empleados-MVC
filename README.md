@@ -1,2 +1,2 @@
 # Gestor-empleados-MVC
-Aplicación para gestionar empleados desarrollada en Java con las JPA, JSP, Servlets y diseñor MVC. Lenguajes: Java, JSTL, JPQL, HTML, CSS.
+Prototipo para gestionar empleados con base de datos MySQL, desarrollada en Java con JPA, JSP, Servlets y diseño MVC. Lenguajes: Java, JSTL, JPQL, HTML, CSS.
