@@ -1,0 +1,43 @@
+/*
+Autor:Raquel Más García
+Contenido: hoja de estilo para las vistas con formularios
+*/
+@CHARSET "utf-8";
+
+fieldset{
+background-color:rgba(255, 255, 255, 0.3);
+border-radius:10px;
+padding:20px;
+}
+
+h1{
+position:relative;
+top:30px;
+left:155px;
+}
+
+#formAcc{
+position:relative;
+top:70px;
+}
+
+#accionB{
+float:right;
+margin-top:-40px;
+margin-right:10px;
+}
+
+#cancelarB{
+margin-top:100px;
+margin-left:185px;
+}
+
+select{
+margin-left:10px;
+border-radius:5px;
+}
+
+input{
+margin:5px;
+border-radius:5px;
+}
